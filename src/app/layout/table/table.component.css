@@ -1,0 +1,14 @@
+td {
+    border: none;
+}
+
+table tbody {
+    border: none;
+}
+
+h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 3%;
+    padding-top: 6%;
+    font-size: 25px;
+}

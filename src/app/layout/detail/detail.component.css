@@ -1,0 +1,11 @@
+.segment {
+    text-align: left;
+}
+
+.segment .header {
+    font-size: 170%;
+}
+
+div #chart_div {
+    height: 200%;
+}

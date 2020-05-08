@@ -1,0 +1,30 @@
+.grid {
+    text-align: center;
+    width: 100%;
+    margin: 0%;
+}
+
+.grid .three {
+    margin-top: -1.5%;
+}
+
+g {
+    color: rgb(156, 156, 156);
+}
+
+.grid .three .column {
+    border: solid rgb(212, 212, 212) 1px;
+    color: rgb(156, 156, 156);
+    margin-left: 0.5%;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    padding-top: 1.5%;
+    padding-bottom: 2%;
+}
+
+.grid .three .column h4 {
+    font-size: 115%;
+}
